@@ -53,8 +53,8 @@ Os materiais foram desenvolvidos e aplicados em seis intervenções presenciais 
 | Material | Público-alvo | Arquivo |
 |---|---|---|
 | Plano de ensino | Professores | [Plano_de_Ensino_Entanglion.pdf](materiais-didaticos/planos/Plano_de_Ensino_Entanglion.pdf) |
-| Slides | Ensino Médio | *em breve* |
-| Slides | Graduação | *em breve* |
+| Slides | Ensino Médio | [Slides-Principios-CQ-Entanglion-EM-2025.pdf](materiais-didaticos/slides/Slides-Principios-CQ-Entanglion-EM-2025.pdf) |
+| Slides | Graduação | [Slides-Principios-CQ-Entanglion-Graduacao-2025.pdf](materiais-didaticos/slides/Slides-Principios-CQ-Entanglion-Graduacao-2025.pdf) |
 
 ---
 
