@@ -75,7 +75,7 @@ Se você é um educador que gostaria de usar o Entanglion como parte de um curr�
 
 A tradução mantém todos os termos técnicos em inglês (`qubit`, `CNOT`, `SWAP`, `Hadamard`, nomes dos planetas e galáxias) por serem notação científica padronizada internacionalmente. Apenas os textos de regras, narrativa e descrições foram traduzidos para o português brasileiro.
 
-**Tradução:** Gabriel B. de Santana e Jorge Alexandre de Araújo  
+**Tradução:** [Gabriel B. de Santana](https://github.com/mpc53199) e [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)  
 **Repositório original:** [github.com/Entanglion/entanglion](https://github.com/Entanglion/entanglion)
 
 ---

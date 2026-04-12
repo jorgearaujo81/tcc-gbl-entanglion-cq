@@ -86,7 +86,7 @@ O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro
 ### Sobre a tradução
 A tradução mantém todos os termos técnicos em inglês (`qubit`, `CNOT`, `SWAP`, `Hadamard`, nomes dos planetas e galáxias) por serem notação científica padronizada internacionalmente. Apenas os textos de regras, narrativa e descrições foram traduzidos.
 
-**Tradução:** Gabriel B. de Santana e Jorge Alexandre de Araújo  
+**Tradução:** [Gabriel B. de Santana](https://github.com/mpc53199) e [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)  
 **Repositório original:** [github.com/Entanglion/entanglion](https://github.com/Entanglion/entanglion)
 
 ---
@@ -106,9 +106,10 @@ A pesquisa conduziu seis intervenções presenciais (N = 34 respondentes válido
 
 **Jorge Alexandre de Araújo**  
 Bacharel em Ciência da Computação — CESAR School (2025)  
-GitHub: [github.com/jorgearaujo81](https://github.com/jorgearaujo81)
+📋 [Currículo Lattes](http://lattes.cnpq.br/0699057913401217) | 💼 [LinkedIn](https://www.linkedin.com/in/jorge-araujo81/)
 
-**Orientadora:** Profa. Dra. Pamela Thays Lins Bezerra — CESAR School
+**Orientadora:** Profa. Dra. Pamela Thays Lins Bezerra — CESAR School  
+📋 [Currículo Lattes](http://lattes.cnpq.br/6624770463248795) | 💼 [LinkedIn](https://www.linkedin.com/in/pamelathays/)
 
 ---
 

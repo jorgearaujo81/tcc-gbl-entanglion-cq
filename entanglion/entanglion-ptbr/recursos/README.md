@@ -67,3 +67,7 @@ Arquivos STL para impressão 3D das peças do jogo. Podem ser impressos em qualq
 ---
 
 *Para os arquivos originais em inglês, acesse o [repositório oficial do Entanglion](https://github.com/Entanglion/entanglion/tree/main/assets).*
+
+---
+
+**Tradução:** [Gabriel B. de Santana](https://github.com/mpc53199) e [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)
