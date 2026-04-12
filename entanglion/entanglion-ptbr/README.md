@@ -1,4 +1,4 @@
-# Entanglion
+# Entanglion — Tradução para o Português (pt-BR)
 
 > Um jogo da IBM Research
 
@@ -8,7 +8,9 @@
 
 Acha que está pronto para o desafio?
 
-[![](imagens/front.jpg)](imagens/front.jpg)
+[![](images/front.jpg)](images/front.jpg)
+
+---
 
 ## Bem-vindo ao universo quântico, Capitão!
 
@@ -18,66 +20,77 @@ Durante anos, você ficou obcecado por rumores sobre uma antiga tecnologia de co
 
 Se quiser reconstruir essa tecnologia incrível, você terá que navegar com suas naves pela galáxia de Entanglion e superar as defesas deixadas pelos antigos. A boa notícia é que seu antigo capitão deixou dinheiro suficiente para equipar suas naves com os motores quânticos necessários para entrar em Entanglion. A má notícia é que, sem um computador quântico para guiá-los, esses motores podem ser um pouco… imprevisíveis.
 
-Quer saber mais? Leia a história completa de Entanglion, [O Misterioso Destino dos Quânticos](jogo/Historia.md).
+Quer saber mais? Leia a história completa de Entanglion: [O Misterioso Destino dos Quânticos](jogo/Historia.md).
+
+---
+
+## Estrutura desta tradução
+
+```
+entanglion-ptbr/
+├── jogo/                      Regras, história e referência das cartas
+│   ├── README.md              Livro de regras completo
+│   ├── Historia.md            O Misterioso Destino dos Quânticos
+│   ├── CartasDeEvento.md      As 9 cartas de evento e seus efeitos
+│   ├── ComponentesQuanticos.md Os 8 componentes e seus efeitos
+│   └── Errata.md              Esclarecimentos e correções
+├── recursos/                  Arquivos para montar e jogar o Entanglion
+│   ├── livro-de-regras/       Manual de regras em PDF para impressão
+│   ├── tabuleiro/             Tabuleiro traduzido (em produção)
+│   └── modelos-3d/            Modelos STL para impressão 3D das peças
+├── expansoes/                 Guia para criar expansões do jogo
+├── images/                    Imagens utilizadas na documentação
+├── MANTENEDORES.md            Responsáveis pela tradução
+├── DCO1.1.txt                 Certificado de origem do desenvolvedor
+└── LICENSE                    Licença Creative Commons BY-NC-SA 4.0
+```
+
+---
 
 ## Obtendo o Entanglion
 
-Entanglion é um projeto de código aberto e você pode fazer sua própria cópia do jogo baixando e imprimindo os recursos. Como alternativa, você pode comprar uma cópia em caixa do Entanglion em The Game Crafter.
+Entanglion é um projeto de código aberto. Você pode montar sua própria cópia imprimindo os arquivos disponíveis na pasta [recursos/](recursos/).
 
-🚀 **[Baixe o guia de Impressão e Montagem do Entanglion](assets)**
+🖨️ **[Arquivos para impressão e montagem](recursos/)**
 
 💰 **[Compre o Entanglion em The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
 
-[![](imagens/board.png)](imagens/board.png)
+[![](images/board.png)](images/board.png)
+
+---
 
 ## Jogando o Entanglion
 
-Por favor, leia o [livro de regras](jogo) para entender como jogar Entanglion. A versão online do livro de regras deve ser considerada a mais atualizada, e documentaremos quaisquer errata que encontrarmos no guia impresso nessa página.
+Leia o [livro de regras](jogo/README.md) para entender como jogar o Entanglion.
+
+---
 
 ## Usando o Entanglion no Ensino
 
-Se você é um educador que gostaria de usar o Entanglion como parte de um currículo de aprendizado, por favor [entre em contato conosco](mailto:entanglion@us.ibm.com). Adoraríamos ouvir sobre seus planos para o Entanglion e podemos ser capazes de apoiar seus esforços.
+Se você é um educador que gostaria de usar o Entanglion como parte de um currículo de aprendizado, por favor [entre em contato](mailto:entanglion@us.ibm.com). Para materiais didáticos complementares como plano de ensino e slides, acesse o [repositório principal](https://github.com/jorgearaujo81/tcc-gbl-entanglion-cq).
 
-## Expandindo o Entanglion
+---
 
-Entanglion é um projeto de código aberto desenvolvido pela IBM Research para ensinar jogadores sobre computação quântica. Damos boas-vindas a contribuições da comunidade para modificar e ampliar o jogo. Se você gostaria de desenvolver uma expansão para o Entanglion, confira nosso [guia de expansão](expansoes).
+## Sobre a tradução
 
-## Citando o Entanglion
+A tradução mantém todos os termos técnicos em inglês (`qubit`, `CNOT`, `SWAP`, `Hadamard`, nomes dos planetas e galáxias) por serem notação científica padronizada internacionalmente. Apenas os textos de regras, narrativa e descrições foram traduzidos para o português brasileiro.
 
-Se você deseja citar o Entanglion em trabalhos acadêmicos, por favor use a seguinte citação.
+**Tradução:** Gabriel B. de Santana e Jorge Alexandre de Araújo  
+**Repositório original:** [github.com/Entanglion/entanglion](https://github.com/Entanglion/entanglion)
 
-> Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: <https://doi.org/10.1145/3242671.3242696>
+---
 
-```
-@inproceedings{Weisz:2018:EBG:3242671.3242696,
- author = {Weisz, Justin D. and Ashoori, Maryam and Ashktorab, Zahra},
- title = {Entanglion: A Board Game for Teaching the Principles of Quantum Computing},
- booktitle = {Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play},
- series = {CHI PLAY '18},
- year = {2018},
- isbn = {978-1-4503-5624-4},
- location = {Melbourne, VIC, Australia},
- pages = {523--534},
- numpages = {12},
- url = {http://doi.acm.org/10.1145/3242671.3242696},
- doi = {10.1145/3242671.3242696},
- acmid = {3242696},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {board game, game-based learning, pedagogical tools, quantum computing education},
-}
-```
-
-# Criadores
+## Criadores originais
 
 Entanglion foi desenvolvido pela IBM Research em Nova York.
 
-**Design**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)  
-**Ilustração**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)  
-**Ciência Quântica**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), e [Lev S. Bishop](https://github.com/levbishop)  
-**Tradução para o Português (pt-BR)**: Gabriel B. de Santana, [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)
+**Design:** [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)  
+**Ilustração:** [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)  
+**Ciência Quântica:** [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), e [Lev S. Bishop](https://github.com/levbishop)
 
-# Licença
+---
+
+## Licença
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Este trabalho está licenciado sob uma [Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/).

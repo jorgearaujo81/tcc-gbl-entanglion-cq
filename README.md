@@ -19,15 +19,20 @@ tcc-gbl-entanglion-cq/
 ├── pesquisa/                          Materiais da pesquisa acadêmica
 │   ├── tcc/                           Trabalho de Conclusão de Curso
 │   ├── artigo-base/                   Artigo original do Entanglion (IBM, 2018)
-│   ├── dados/                         Notebook de análise e formulário de coleta
+│   ├── dados/                         Dados coletados, notebook e formulário
 │   └── referencias/                   Referências complementares
 ├── materiais-didaticos/               Materiais para uso em sala de aula
 │   ├── planos/                        Plano de ensino
 │   └── slides/                        Slides (Ensino Médio e Graduação)
-└── entanglion/                        Tudo relacionado ao jogo
-    ├── manual/                        Manual de regras em português (PDF)
-    ├── tabuleiro/                     Tabuleiro traduzido (em produção)
-    └── entanglion-ptbr/               Tradução completa dos arquivos do repositório
+└── entanglion/                        Tudo relacionado ao jogo Entanglion
+    └── entanglion-ptbr/               Tradução completa para o português (pt-BR)
+        ├── jogo/                      Livro de regras, história e referência das cartas
+        ├── recursos/                  Arquivos para montar e jogar o Entanglion
+        │   ├── livro-de-regras/       Manual de regras em PDF para impressão
+        │   ├── tabuleiro/             Tabuleiro traduzido (em produção)
+        │   └── modelos-3d/            Modelos STL para impressão 3D das peças
+        ├── expansoes/                 Guia para criar expansões do jogo
+        └── images/                    Imagens utilizadas na documentação
 ```
 
 ---
@@ -60,13 +65,23 @@ Os materiais foram desenvolvidos e aplicados em seis intervenções presenciais 
 
 ## Entanglion em Português (pt-BR)
 
-O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro cooperativo desenvolvido pela IBM Research para ensinar os princípios da Computação Quântica. Este repositório inclui a tradução completa de todos os arquivos de texto do jogo para o português brasileiro.
+O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro cooperativo desenvolvido pela IBM Research para ensinar os princípios da Computação Quântica. Este repositório inclui a tradução completa para o português brasileiro.
 
+### Para jogar
 | Material | Arquivo |
 |---|---|
-| Manual de regras (PDF imprimível) | [Regras_do_Entanglion_pt_br.pdf](entanglion/manual/Regras_do_Entanglion_pt_br.pdf) |
+| Livro de regras (PDF para impressão) | [Livro-de-Regras.pdf](entanglion/entanglion-ptbr/recursos/livro-de-regras/Livro-de-Regras.pdf) |
 | Tabuleiro traduzido | *em produção* |
-| Arquivos de texto traduzidos (MD) | [entanglion/entanglion-ptbr/](entanglion/entanglion-ptbr/) |
+| Modelos 3D das peças | [modelos-3d/](entanglion/entanglion-ptbr/recursos/modelos-3d/) |
+
+### Para educadores
+| Material | Arquivo |
+|---|---|
+| Livro de regras (texto) | [jogo/](entanglion/entanglion-ptbr/jogo/) |
+| História do jogo | [jogo/Historia.md](entanglion/entanglion-ptbr/jogo/Historia.md) |
+| Cartas de evento | [jogo/CartasDeEvento.md](entanglion/entanglion-ptbr/jogo/CartasDeEvento.md) |
+| Componentes quânticos | [jogo/ComponentesQuanticos.md](entanglion/entanglion-ptbr/jogo/ComponentesQuanticos.md) |
+| Guia de expansões | [expansoes/](entanglion/entanglion-ptbr/expansoes/) |
 
 ### Sobre a tradução
 A tradução mantém todos os termos técnicos em inglês (`qubit`, `CNOT`, `SWAP`, `Hadamard`, nomes dos planetas e galáxias) por serem notação científica padronizada internacionalmente. Apenas os textos de regras, narrativa e descrições foram traduzidos.
@@ -93,7 +108,7 @@ A pesquisa conduziu seis intervenções presenciais (N = 34 respondentes válido
 Bacharel em Ciência da Computação — CESAR School (2025)  
 GitHub: [github.com/jorgearaujo81](https://github.com/jorgearaujo81)
 
-**Orientadora:** Profa. Dra. Pamela Thays Lins Bezerra — CESAR School  
+**Orientadora:** Profa. Dra. Pamela Thays Lins Bezerra — CESAR School
 
 ---
 
