@@ -1,41 +1,41 @@
 # Expansões do Entanglion
 
-Encorajamos os jogadores do Entanglion a criarem suas próprias expansões para o universo do jogo. Se você desenvolveu uma expansão, teremos prazer em listá-la aqui!
+Encorajamos os jogadores do Entanglion a criarem suas próprias expansões do universo do jogo. Se você desenvolveu uma expansão, teremos prazer em listá-la aqui!
 
 Para ter sua expansão listada, abra uma [issue](https://github.com/Entanglion/entanglion/issues) com o rótulo "enhancement" e nos forneça uma descrição da sua expansão e um link para seu repositório no GitHub. Nós a avaliaremos e listaremos aqui.
 
----
-
-## Criando uma expansão
+## Orientações para expandir o Entanglion
 
 Criar uma expansão para o Entanglion pode ser uma experiência divertida, desafiadora e gratificante. Gostaríamos de oferecer algumas sugestões para que o processo seja tranquilo.
 
-- Muitos elementos do jogo podem ser alterados, mas o elemento mais difícil de mudar é o tabuleiro. Especificamente, o mapa do universo quântico foi desenvolvido para refletir com precisão os diferentes tipos de estados quânticos que podem ser alcançados usando a combinação dos cartões H, X, CNOT e SWAP. Embora existam outros tipos de portas quânticas além destas, pode ser difícil modelar com precisão os estados quânticos alcançáveis a partir delas.
-
-- Os **cartões de motor** são os mais fáceis de modificar. Você pode alterar as probabilidades dos diferentes tipos de cartões ou introduzir novos tipos de cartões com novas mecânicas de jogo.
-
-- Os **cartões de evento quântico** também são fáceis de modificar. Você pode criar novos eventos que introduzam novos mecanismos de jogo ou novas narrativas.
-
-- Os **componentes quânticos** podem ser substituídos por novos componentes com novas habilidades especiais. Isso permite explorar aspectos adicionais do hardware de computação quântica.
-
-- A **narrativa** do jogo pode ser expandida para explorar novos planetas, galáxias ou personagens no universo de Entanglion.
-
----
+1. Muitos elementos do jogo podem ser alterados, mas o elemento mais difícil de mudar é o tabuleiro. Especificamente, o mapa do universo quântico foi desenvolvido para refletir com precisão os diferentes tipos de estados quânticos que podem ser alcançados usando a combinação dos cartões H, X, CNOT e SWAP. Embora existam outros tipos de portas quânticas além destas, pode ser difícil modelar com precisão os estados quânticos alcançáveis a partir delas.
+2. Quaisquer novos elementos adicionados ao jogo (por exemplo, peças adicionais, novas cartas, novos tabuleiros) devem ser facilmente imprimíveis. Teste seus designs em impressoras preto e branco e também coloridas. Recomendamos fornecer novos elementos do jogo como documentos PDF para fácil portabilidade.
+3. Tenha em mente que alguns jogadores podem ser daltônicos. Teste suas cores usando um simulador de daltonismo como o [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/).
 
 ## Expansões da comunidade
 
-*Ainda não há expansões listadas. Seja o primeiro a criar uma!*
+### Entanglion: Piratas do Espaço
+_Criado por Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy e Rachel Ostrand_
 
----
+Os Piratas do Espaço de Entanglion (SPOE) estão recrutando, e você gostaria de se juntar a eles! Transforme suas naves de mineração intergalácticas em uma frota temível movida a energia quântica, coletando recursos, comprando componentes quânticos e superando seu oponente para se tornar o próximo grande pirata espacial!
 
-## Contribuições em Português (pt-BR)
+[🚀 Jogue esta expansão](https://github.com/Entanglion/entanglion-spoe)
 
-Esta tradução para o português foi desenvolvida para ampliar o acesso ao Entanglion nas escolas públicas e instituições de ensino brasileiras.
+### Entanglion: Versão em tcheco
+_Traduzido por: Jan Louda, Tomas Feige e Magdalena Stachova_
 
-**Tradução:** Gabriel B. de Santana, [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)  
-**Repositório:** [github.com/jorgearaujo81/entanglion-ptbr](https://github.com/jorgearaujo81/entanglion-ptbr)
+Aproveite o jogo em todos os seus detalhes no idioma tcheco. Traduzimos não apenas o livro de regras, mas também todos os recursos necessários para fazer sua própria versão DIY original. Também adicionamos arquivos para corte a laser dos tokens em acrílico para tornar seu jogo ainda mais especial.
 
----
+[🇨🇿 Obtenha a versão traduzida](https://github.com/janlouda/entanglion)
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
-Este trabalho está licenciado sob uma [Licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+### Entanglion: Versão em polonês
+_Traduzido por: Kamil Chwastek (hfastek)_
+
+[🇵🇱 Obtenha a versão traduzida](https://github.com/hfastek/entanglion)
+
+### Entanglion: Versão em Português (pt-BR)
+_Traduzido por: [Gabriel B. de Santana](https://github.com/mpc53199) e [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)_
+
+Aproveite o jogo em português brasileiro! Traduzimos o livro de regras, todos os arquivos de texto e os recursos necessários para montar sua própria cópia do jogo. Esta tradução foi desenvolvida como parte de uma pesquisa acadêmica sobre o uso do Entanglion no ensino de Computação Quântica em escolas públicas brasileiras.
+
+[🇧🇷 Obtenha a versão traduzida](https://github.com/jorgearaujo81/tcc-gbl-entanglion-cq)

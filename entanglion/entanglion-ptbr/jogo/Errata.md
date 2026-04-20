@@ -1,26 +1,32 @@
 # Errata
 
-Esta página documenta esclarecimentos e correções ao livro de regras impresso do Entanglion.
+Esta página esclarece regras ou mecânicas de jogo que podem não estar claras nas descrições dos materiais distribuídos do jogo.
+
+> Tem alguma dúvida? Por favor [abra uma issue](../../../issues) e nos avise!
 
 ---
 
-## Esclarecimentos de regras
+## Em que ordem devo contar os planetas quando Ação Fantasmagórica é jogada?
 
-### Uso do cartão PROBE
+Conte da mesma forma que a carta Heisenberg: comece em OMEGA ZERO e conte no sentido horário. Um resultado de dado 1 corresponde a OMEGA ONE (um planeta de distância), e um resultado de dado 8 corresponde a OMEGA ZERO.
 
-**Esclarecimento:** Ao embaralhar a pilha de descarte para recompor o baralho de cartões do motor, o cartão PROBE deve ser incluído no embaralhamento normalmente. **Não** coloque o PROBE no fundo da pilha como na configuração inicial.
+---
 
-### Detecção pelas defesas terrestres
+## O que acontece quando PROBE é comprado durante O Mecânico?
 
-**Esclarecimento:** Quando uma equipe de desembarque é detectada pelas defesas terrestres ao tentar recuperar um componente quântico, as naves permanecem em órbita no planeta atual. Na próxima vez que o jogador tentar navegar a partir desse planeta, **não** é necessário realizar nova verificação de defesa orbital — a verificação orbital só ocorre ao chegar em um novo planeta.
+O PROBE tem efeito imediato. Realize a verificação de defesa para ver se suas naves evitaram a sonda de Entanglion, lembrando que você precisa rolar 4 ou mais, levando em conta os efeitos dos seus componentes quânticos. Em seguida, após resolver o PROBE, compre uma carta de motor substituta e continue realizando as ações d'O Mecânico.
 
-### Dois eventos quânticos no mesmo turno
+---
 
-**Esclarecimento:** Se uma nave preencher todos os seis espaços de controle do motor **e** for detectada pelas defesas orbitais no mesmo turno, **dois** eventos quânticos devem ser executados.
+## Quando nossas naves estão em PSI PLUS, PSI MINUS, PHI PLUS ou PHI MINUS e um CNOT é jogado, para onde as naves vão?
 
-### Cartão Quantum Shuffle
+Quando suas naves estão em um dos planetas listados acima (conhecidos como Estados de Bell na linguagem da física quântica) e um CNOT é jogado, a nave em que o CNOT foi jogado retorna para Centarious e a outra nave retorna para Superious. Por exemplo, se ambas as naves estão em PHI PLUS e um CNOT é jogado na Mercurial (a nave azul), Mercurial irá para ZERO e Rubicon irá para PLUS.
 
-**Esclarecimento:** Quando o cartão Quantum Shuffle é sacado, o baralho inteiro de eventos quânticos deve ser embaralhado, incluindo o próprio Quantum Shuffle, conforme as instruções na configuração do jogo.
+---
+
+## Quantas cartas posso jogar com O Mecânico?
+
+O texto da carta diz "jogue até duas delas", o que significa que você pode jogar zero, uma ou duas cartas. A instrução "Descarte a carta de motor não jogada" deve ser lida como "Descarte a(s) carta(s) de motor não jogada(s)".
 
 ---
 
@@ -30,7 +36,3 @@ Esta página documenta esclarecimentos e correções ao livro de regras impresso
 |---|---|---|
 | v1.0 | — | Versão original em inglês |
 | v1.1 (pt-BR) | 2025 | Tradução para o português brasileiro |
-
----
-
-*Para dúvidas adicionais, consulte o [repositório oficial](https://github.com/Entanglion/entanglion) do Entanglion ou abra uma [issue](https://github.com/Entanglion/entanglion/issues).*
