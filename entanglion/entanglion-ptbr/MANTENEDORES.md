@@ -4,6 +4,7 @@
 
 | Nome | GitHub |
 |---|---|
+| Maryam Ashoori | [@maryamashoori](https://github.com/maryamashoori) |
 | Justin D. Weisz | [@jweisz](https://github.com/jweisz) |
 
 ---
