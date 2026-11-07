@@ -29,7 +29,7 @@ tcc-gbl-entanglion-cq/
         ├── jogo/                      Livro de regras, história e referência das cartas
         ├── recursos/                  Arquivos para montar e jogar o Entanglion
         │   ├── livro-de-regras/       Manual de regras em PDF para impressão
-        │   ├── tabuleiro/             Tabuleiro traduzido (em produção)
+        │   ├── tabuleiro/             Pôster/tabuleiro e kits de impressão (A4 e Carta, versões normal e Light)
         │   └── modelos-3d/            Modelos STL para impressão 3D das peças
         ├── expansoes/                 Guia para criar expansões do jogo
         └── images/                    Imagens utilizadas na documentação
@@ -65,13 +65,16 @@ Os materiais foram desenvolvidos e aplicados em seis intervenções presenciais 
 
 ## Entanglion em Português (pt-BR)
 
-O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro cooperativo desenvolvido pela IBM Research para ensinar os princípios da Computação Quântica. Este repositório inclui a tradução completa para o português brasileiro.
+O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro para 2 jogadores desenvolvido pela IBM Research para ensinar os princípios da Computação Quântica. Este repositório inclui a tradução completa para o português brasileiro.
 
 ### Para jogar
 | Material | Arquivo |
 |---|---|
 | Livro de regras (PDF para impressão) | [Livro-de-Regras.pdf](entanglion/entanglion-ptbr/recursos/livro-de-regras/Livro-de-Regras.pdf) |
-| Tabuleiro traduzido | *em produção* |
+| Pôster/tabuleiro traduzido (normal e Light) | [Entanglion_Poster_pt-BR.pdf](entanglion/entanglion-ptbr/recursos/tabuleiro/Entanglion_Poster_pt-BR.pdf) · [Light](entanglion/entanglion-ptbr/recursos/tabuleiro/Entanglion_Poster_Light_pt-BR.pdf) |
+| Kit de impressão A4 (normal e Light) | [Entanglion_Kit_A4_pt-BR.pdf](entanglion/entanglion-ptbr/recursos/tabuleiro/Entanglion_Kit_A4_pt-BR.pdf) · [Light](entanglion/entanglion-ptbr/recursos/tabuleiro/Entanglion_Kit_A4_Light_pt-BR.pdf) |
+| Kit de impressão Carta/Letter (normal e Light) | [Entanglion_Kit_Carta_pt-BR.pdf](entanglion/entanglion-ptbr/recursos/tabuleiro/Entanglion_Kit_Carta_pt-BR.pdf) · [Light](entanglion/entanglion-ptbr/recursos/tabuleiro/Entanglion_Kit_Carta_Light_pt-BR.pdf) |
+| Guia de impressão e montagem | [recursos/](entanglion/entanglion-ptbr/recursos/) |
 | Modelos 3D das peças | [modelos-3d/](entanglion/entanglion-ptbr/recursos/modelos-3d/) |
 
 ### Para educadores
@@ -84,7 +87,7 @@ O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro
 | Guia de expansões | [expansoes/](entanglion/entanglion-ptbr/expansoes/) |
 
 ### Sobre a tradução
-A tradução mantém todos os termos técnicos em inglês (`qubit`, `CNOT`, `SWAP`, `Hadamard`, nomes dos planetas e galáxias) por serem notação científica padronizada internacionalmente. Apenas os textos de regras, narrativa e descrições foram traduzidos.
+A tradução mantém em inglês a notação técnica e os nomes próprios do jogo (`qubit`, `CNOT`, `SWAP`, `PLUS`, `MINUS`, `ZERO`, `ONE`, Centarious, Superious, Entanglion, Quantics), por serem padrão internacional. Regras, narrativa, cartas, componentes e imagens foram traduzidos para o português, com termos como "emaranhamento", "taxa de detecção" e "Correção de Erros Quânticos". O livro de regras e o pôster estão disponíveis em PDF, com kits de impressão em A4 e Carta e uma versão Light (menos tinta).
 
 **Tradução:** [Gabriel B. de Santana](https://github.com/mpc53199) e [Jorge Alexandre de Araújo](https://github.com/jorgearaujo81)  
 **Repositório original:** [github.com/Entanglion/entanglion](https://github.com/Entanglion/entanglion)
