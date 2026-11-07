@@ -46,7 +46,7 @@ Incluímos vários modelos 3D, alguns dos quais podem ser usados no lugar das ve
 > Se você não tem acesso a uma impressora 3D, pode comprar os dados na Amazon ([d6 binário de Centarious](http://a.co/0cW7fsG), [d8 de Entanglion](http://a.co/aNyVaz9)) ou reaproveitar dados com o número adequado de lados de outros jogos de tabuleiro.
 
 ### Livro de Regras
-Incluímos a versão colorida do livro de regras nos materiais do jogo. No entanto, é possível que atualizemos as regras com base no feedback da comunidade. A fonte oficial das regras do Entanglion será mantida no [livro de regras online](../jogo), e quaisquer errata ou esclarecimentos de regras serão documentados na [página de errata](../jogo/Errata.md).
+Incluímos a versão colorida do livro de regras nos materiais do jogo. No entanto, é possível que atualizemos as regras com base no feedback da comunidade. A fonte oficial das regras do Entanglion será mantida no [livro de regras online](../jogo), e quaisquer erratas ou esclarecimentos de regras serão documentados na [página de errata](../jogo/Errata.md).
 
 ## Passo 4. Hora de jogar! 🚀
 Parabéns por montar sua própria cópia do Entanglion. Esperamos que você goste de jogar!

@@ -65,7 +65,7 @@ Os materiais foram desenvolvidos e aplicados em seis intervenções presenciais 
 
 ## Entanglion em Português (pt-BR)
 
-O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro para 2 jogadores desenvolvido pela IBM Research para ensinar os princípios da Computação Quântica. Este repositório inclui a tradução completa para o português brasileiro.
+O [Entanglion](https://github.com/Entanglion/entanglion) é um jogo de tabuleiro cooperativo para 2 jogadores desenvolvido pela IBM Research para ensinar os princípios da Computação Quântica. Este repositório inclui a tradução completa para o português brasileiro.
 
 ### Para jogar
 | Material | Arquivo |

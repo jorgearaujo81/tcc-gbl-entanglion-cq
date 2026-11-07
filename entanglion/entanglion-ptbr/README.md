@@ -4,7 +4,7 @@
 
 **2 JOGADORES | A PARTIR DE 14 ANOS | 45 MINUTOS**
 
-[Entanglion](http://ibm.biz/entanglion) aguarda suas habilidades de navegação espacial e planejamento estratégico para explorar uma nova galáxia e reconstruir um antigo computador quântico. [Entanglion](http://ibm.biz/entanglion) é um jogo de tabuleiro cooperativo projetado para dois jogadores. Aprenda sobre computação quântica enquanto você e seu parceiro trabalham juntos para navegar pelas três galáxias do universo quântico, evitar a detecção dos mecanismos de defesa deixados pelos antigos e reconstruir o computador quântico.
+[Entanglion](http://ibm.biz/entanglion) aguarda suas habilidades de navegação espacial e planejamento estratégico para explorar uma nova galáxia e reconstruir um antigo computador quântico. [Entanglion](http://ibm.biz/entanglion) é um jogo de tabuleiro cooperativo projetado para dois jogadores. Aprenda sobre computação quântica enquanto você e seu parceiro trabalham juntos para navegar pelas três galáxias do universo quântico, evitar a detecção pelos mecanismos de defesa deixados pelos antigos e reconstruir o computador quântico.
 
 Acha que está pronto para o desafio?
 
@@ -29,7 +29,7 @@ Entanglion é um projeto de código aberto, e você pode criar sua própria cóp
 <img src="images/board.png" width="85%" />
 
 ## Jogando Entanglion
-Por favor, leia o [livro de regras](jogo) para entender como jogar Entanglion. A versão online do livro de regras deve ser considerada a fonte oficial, e quaisquer erratas encontradas no guia impresso serão documentadas nessa página.
+Por favor, leia o [livro de regras](jogo) para entender como jogar Entanglion. A versão online do livro de regras deve ser considerada a fonte oficial, e quaisquer erratas encontradas no guia impresso serão documentadas nesta página.
 
 ## Ensinando Entanglion
 Se você é um educador e gostaria de usar Entanglion como parte de um currículo de ensino, por favor [entre em contato conosco](mailto:entanglion@us.ibm.com). Adoraríamos conhecer seus planos para o uso de Entanglion e talvez possamos apoiar seus esforços.

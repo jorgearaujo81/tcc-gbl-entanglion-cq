@@ -135,7 +135,7 @@ A taxa de detecção determina a dificuldade de escapar com sucesso das defesas 
 <img src="../images/detection_rate.png" width="40%">
 
 # Defesas orbitais
-Os planetas em Entanglion são protegidos por defesas orbitais que rastreiam naves em busca de saquear os componentes quânticos escondidos ali. É possível evitar essas defesas usando seus motores quânticos. Se você for detectado, porém, seu sistema de navegação fará automaticamente manobras evasivas e saltará para um planeta aleatório do sistema Centarious. Esse salto aciona um evento quântico.
+Os planetas em Entanglion são protegidos por defesas orbitais que rastreiam naves que buscam saquear os componentes quânticos escondidos ali. É possível evitar essas defesas usando seus motores quânticos. Se você for detectado, porém, seu sistema de navegação fará automaticamente manobras evasivas e saltará para um planeta aleatório do sistema Centarious. Esse salto aciona um evento quântico.
 
 **Quando você navegar para qualquer planeta em Entanglion:** Role o dado de Entanglion. Se o resultado for maior que a taxa de detecção atual, as defesas orbitais foram evitadas. Caso contrário, execute as seguintes ações:
 
@@ -233,7 +233,7 @@ Os componentes quânticos em Entanglion representam diferentes componentes físi
 
 - **Qubits Físicos**. Assim como os processadores de computadores clássicos são implementados por transistores de hardware, os processadores quânticos são implementados por qubits de hardware. Há [várias maneiras diferentes](https://en.wikipedia.org/wiki/Qubit#Physical_representation) pelas quais cientistas estão criando qubits físicos, incluindo junções de Josephson, armadilhas de íons e pontos quânticos.
 - **Interconexão de Qubits**. Os qubits devem estar fisicamente conectados entre si para ficarem emaranhados uns com os outros.
-- **Refrigerador de Diluição**. Os qubits físicos devem ser mantidos a temperaturas muito baixas – mais frias até que o espaço sideral – para manter sua coerência. Os refrigeradores de diluição são capazes de resfriar qubits físicos a temperaturas tão baixas quanto 2 milikelvin.
+- **Refrigerador de Diluição**. Os qubits físicos devem ser mantidos a temperaturas muito baixas – mais frias até do que o espaço sideral – para manter sua coerência. Os refrigeradores de diluição são capazes de resfriar qubits físicos a temperaturas tão baixas quanto 2 milikelvin.
 - **Portas Quânticas**. Na computação clássica, portas lógicas como AND, OR, NOT e NAND são combinadas para criar computações de ordem superior. Na computação quântica, portas quânticas como X, CNOT, SWAP e H são usadas para a computação.
 - **Programação Quântica**. Para melhorar a produtividade dos programadores quânticos, são necessárias linguagens de programação quântica de mais alto nível. Por exemplo, o [IBM OpenQASM](https://github.com/IBM/qiskit-openqasm) permite programar um computador quântico com uma linguagem em estilo assembly, e o [IBM QISKit](https://qiskit.org) permite programar um computador quântico em Python.
 - **Correção de Erros Quânticos**. Os qubits físicos sofrem ruído que pode causar erros durante a medição. A [correção de erros quânticos](https://en.wikipedia.org/wiki/Quantum_error_correction) é usada para corrigir esses erros. A ideia-chave da correção de erros quânticos é usar vários qubits físicos para simular um qubit lógico.
