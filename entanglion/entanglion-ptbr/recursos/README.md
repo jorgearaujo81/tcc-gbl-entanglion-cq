@@ -25,7 +25,7 @@ Muitos dos materiais do Entanglion precisam ser impressos, mas há escolhas que 
 ## Passo 3. Impressão
 
 ### Escolha do papel
-Muitos dos componentes do Entanglion foram projetados para serem impressos em uma impressora jato de tinta ou laser comum. No entanto, o papel padrão dessas impressoras é um pouco frágil para um jogo de tabuleiro. Recomendamos imprimir em papel mais pesado (cartolina) com gramatura de 80 a 110 lb, se possível. Como alternativa, os componentes podem ser impressos e colados em papelão paraná, placa de espuma (foam board) ou outra superfície de apoio.
+Muitos dos componentes do Entanglion foram projetados para serem impressos em uma impressora jato de tinta ou laser comum. No entanto, o papel padrão dessas impressoras é um pouco frágil para um jogo de tabuleiro. Recomendamos imprimir em papel mais pesado (cartolina) de alta gramatura (80 a 110 lb, conforme a especificação norte-americana de peso do papel; aproximadamente 215 a 300 g/m²), se possível. Como alternativa, os componentes podem ser impressos e colados em papelão paraná, placa de espuma (foam board) ou outra superfície de apoio.
 
 ### Configurações de impressão
 Ao imprimir, use impressão em um só lado, a 100%, sem redimensionamento e na configuração de maior qualidade.

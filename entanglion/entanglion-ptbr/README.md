@@ -13,7 +13,7 @@ Acha que está pronto para o desafio?
 ## Bem-vindo ao universo quântico, Capitão!
 Parabéns, seu capitão se aposentou e deixou você no comando do negócio galáctico de transporte de cargas! Agora é hora de fazer alguns aprimoramentos.
 
-Há anos, você está obcecado com rumores sobre uma antiga tecnologia de computação quântica que poderia revolucionar o transporte de carga interestelar. Se os rumores forem verdadeiros, ela permitiria que suas naves calculassem rotas no hiperespaço em questão de segundos! Só há um problema: os antigos desmontaram seu computador quântico por temerem seu poder, e deixaram os componentes espalhados pelos planetas na galáxia fortemente protegida de Entanglion.
+Há anos, você está obcecado com rumores sobre uma antiga tecnologia de computação quântica que poderia revolucionar o transporte de carga interestelar. Se os rumores fossem verdadeiros, ela permitiria que suas naves calculassem rotas no hiperespaço em questão de segundos! Só há um problema: os antigos desmontaram seu computador quântico por temerem seu poder e deixaram os componentes espalhados pelos planetas na galáxia fortemente protegida de Entanglion.
 
 Se quiser reconstruir essa tecnologia incrível, você precisará navegar com suas naves até a galáxia de Entanglion e superar as defesas deixadas pelos antigos. A boa notícia é que seu antigo capitão deixou dinheiro suficiente para equipar suas naves com motores quânticos — necessários para entrar em Entanglion. A má notícia é que, sem um computador quântico para guiá-los, esses motores podem ser um pouco… imprevisíveis.
 

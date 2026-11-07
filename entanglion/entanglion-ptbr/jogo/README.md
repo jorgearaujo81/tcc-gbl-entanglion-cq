@@ -219,7 +219,7 @@ A galáxia Centarious representa os estados clássicos 0 e 1, escritos em "nota�
 A exigência de que ambas as naves se movam juntas dentro de Entanglion decorre do fato de que, para estados emaranhados, o estado do sistema é mais complexo do que uma simples combinação dos estados dos qubits individuais. Esta é uma das principais maneiras pelas quais a mecânica quântica difere da física clássica.
 
 ## Cartas de motor
-As cartas de motor representam _algumas_ das diferentes espécies de portas lógicas quânticas usadas por computadores quânticos.
+As cartas de motor representam _alguns_ dos diferentes tipos de portas lógicas quânticas usadas por computadores quânticos.
 
 <img src="../images/engine_cards.png" width="60%">
 
