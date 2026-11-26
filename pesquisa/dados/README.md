@@ -37,7 +37,7 @@ O notebook contém o processamento dos dados coletados, incluindo:
 - Geração dos gráficos presentes no TCC
 - Análise de nuvem de palavras dos comentários abertos
 
-📓 *Notebook de análise — em breve*
+📓 [Notebook-Analise-Resultados-TCC-2025.ipynb](Notebook-Analise-Resultados-TCC-2025.ipynb)
 
 ---
 

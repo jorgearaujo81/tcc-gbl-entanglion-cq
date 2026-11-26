@@ -100,4 +100,4 @@ A capacidade de ignorar o primeiro resultado do dado representa a proteção con
 
 ---
 
-*Este material foi desenvolvido como parte da pesquisa de TCC sobre o uso do Entanglion no ensino de Computação Quântica. Para o livro de regras completo, consulte [jogo/README.md](../../jogo/README.md).*
+*Este material foi desenvolvido como parte da pesquisa de TCC sobre o uso do Entanglion no ensino de Computação Quântica. Para o livro de regras completo, consulte [jogo/README.md](../../entanglion/entanglion-ptbr/jogo/README.md).*

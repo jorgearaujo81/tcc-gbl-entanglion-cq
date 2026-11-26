@@ -115,4 +115,4 @@ A perda e restauração de energia da nave representa o colapso — um evento re
 
 ---
 
-*Este material foi desenvolvido como parte da pesquisa de TCC sobre o uso do Entanglion no ensino de Computação Quântica. Para o livro de regras completo, consulte [jogo/README.md](../../jogo/README.md).*
+*Este material foi desenvolvido como parte da pesquisa de TCC sobre o uso do Entanglion no ensino de Computação Quântica. Para o livro de regras completo, consulte [jogo/README.md](../../entanglion/entanglion-ptbr/jogo/README.md).*
